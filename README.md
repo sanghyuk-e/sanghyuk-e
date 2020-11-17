@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **sanghyuk-e/sanghyuk-e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 개발자 이상혁입니다!
+
+- 🔭 저는 지금 iOS 개발자로 일하고 있습니다!
+- 🌱 저는 현재 이것저것 배워가고 있습니다 🤣
+- ⚡ 취미로 볼링을 치고 있습니다
