@@ -18,3 +18,7 @@ Here are some ideas to get you started:
 - 🔭 저는 지금 iOS 개발자로 일하고 있습니다!
 - 🌱 저는 현재 이것저것 배워가고 있습니다 🤣
 - ⚡ 취미로 볼링을 치고 있습니다
+
+## Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
