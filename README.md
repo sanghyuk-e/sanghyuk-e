@@ -47,9 +47,9 @@ Here are some ideas to get you started:
 ### 📚블로그 포스트
 <!-- BLOG-POST-LIST:START -->
 - [Swift 개발자 면접 질문 List](https://sanghyuk-e.github.io//interview/1/)
+- [CHAPTER02: Xcode - 2. Xcode란?](https://sanghyuk-e.github.io//swift-grammar/2-2/)
 - [Single Sign On (SSO)](https://sanghyuk-e.github.io//development/1/)
 - [CHAPTER02: Xcode - 1. 통합개발 환경](https://sanghyuk-e.github.io//swift-grammar/2-1/)
-- [CHAPTER01: 스위프트 - 3. 오브젝티브-C vs 스위프트](https://sanghyuk-e.github.io//swift-grammar/1-3/)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [블로그](https://sanghyuk.dev/)
 
