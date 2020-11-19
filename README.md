@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 🧑🏻‍💻개발자 이상혁입니다! <a href="https://www.sanghyuk.dev/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+# 🧑🏻‍💻안녕하세요. 개발자 이상혁입니다! <a href="https://www.sanghyuk.dev/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 
 - 🔭 WELT에서 iOS 개발자로 일하고 있습니다.
