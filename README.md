@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 # 🧑🏻‍💻개발자 이상혁입니다! <a href="https://www.sanghyuk.dev/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 
-- 🔭 저는 지금 WELT에서 iOS 개발자로 일하고 있습니다!
-- 🌱 저는 아직 배워가고 있는 초보입니다. 🤣
+- 🔭 WELT에서 iOS 개발자로 일하고 있습니다.
+- 🌱 열심히 배워가며 실력을 쌓고 있습니다! 🤣
 - ⚡ 취미로 볼링을 치고 있습니다.
 
 ### Contact
