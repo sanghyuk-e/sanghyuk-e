@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 [<img align="left" alt="instagram | sanghyuk.e" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/sanghyuk.e/)
 
 <br />
-<br />
 
 ### Languages and Tools:
 
@@ -54,14 +53,10 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:END -->
 ➡️ [블로그](https://sanghyuk.dev/)
 
-<br />
-
 ---
 ### 📊깃허브 스탯
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api/?username=sanghyuk-e&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=prs,issues)
-
-<br />
 
 --- 
 
