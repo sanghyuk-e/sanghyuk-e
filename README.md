@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 - [Single Sign On (SSO)](https://sanghyuk-e.github.io//development/1/)
 - [CHAPTER02: Xcode - 1. 통합개발 환경](https://sanghyuk-e.github.io//swift-grammar/2-1/)
 <!-- BLOG-POST-LIST:END -->
-➡️ [블로그](https://sanghyuk.dev/)
+➡️ [블로그 ](https://sanghyuk.dev/)
 
 ---
 ### 📊깃허브 스탯
