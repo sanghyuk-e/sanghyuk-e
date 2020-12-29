@@ -46,10 +46,10 @@ Here are some ideas to get you started:
 
 ### 📚블로그 포스트
 <!-- BLOG-POST-LIST:START -->
+- [Jekyll 블로그 검색엔진에 등록하기 - Naver](https://sanghyuk-e.github.io//blog/1/)
 - [Firebase 시작하기](https://sanghyuk-e.github.io//firebase/1/)
 - [Mac 업데이트 후 CocoaPod 오류 해결방법](https://sanghyuk-e.github.io//ios/1/)
 - [Mac 업데이트 후 xcrun error 해결방법](https://sanghyuk-e.github.io//git/2/)
-- [[codeit - 컴퓨터 개론] 프로그래밍 시작하기 in Python (Part. 2)](https://sanghyuk-e.github.io//codeit/2/)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [블로그 ](https://sanghyuk.dev/)
 
