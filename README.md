@@ -56,9 +56,3 @@ Here are some ideas to get you started:
 ### 📊깃허브 스탯
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api/?username=sanghyuk-e&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=prs,issues)
-
---- 
-
-### 📈언어 사용 순위
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanghyuk-e&hide=&langs_count=8&layout=compact)](https://sanghyuk.dev/)
