@@ -48,6 +48,7 @@ Here are some ideas to get you started:
 
 ### 📚블로그 포스트
 <!-- BLOG-POST-LIST:START -->
+- [{{ post.title | xml_escape }}]({{ post.url | prepend: site.baseurl | prepend: site.url }})
 <!-- BLOG-POST-LIST:END -->
 ➡️ [블로그 ](https://sanghyuk.dev/)
 
