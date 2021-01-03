@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsanghyuk-e%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=sanghyuk-e&edge_flat=false)](https://hits.seeyoufarm.com)
+
 # 🧑🏻‍💻안녕하세요. 개발자 이상혁입니다! <a href="https://www.sanghyuk.dev/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 
@@ -46,20 +48,11 @@ Here are some ideas to get you started:
 
 ### 📚블로그 포스트
 <!-- BLOG-POST-LIST:START -->
-- [Swift 개발자 면접 질문 List](https://sanghyuk-e.github.io//interview/1/)
-- [Single Sign On (SSO)](https://sanghyuk-e.github.io//development/1/)
-- [CHAPTER02: Xcode - 1. 통합개발 환경](https://sanghyuk-e.github.io//swift-grammar/2-1/)
-- [CHAPTER01: 스위프트 - 3. 오브젝티브-C vs 스위프트](https://sanghyuk-e.github.io//swift-grammar/1-3/)
+- [{{ post.title | xml_escape }}]({{ post.url | prepend: site.baseurl | prepend: site.url }})
 <!-- BLOG-POST-LIST:END -->
-➡️ [블로그](https://sanghyuk.dev/)
+➡️ [블로그 ](https://sanghyuk.dev/)
 
 ---
 ### 📊깃허브 스탯
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api/?username=sanghyuk-e&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=prs,issues)
-
---- 
-
-### 📈언어 사용 순위
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanghyuk-e&hide=&langs_count=8&layout=compact)](https://sanghyuk.dev/)
