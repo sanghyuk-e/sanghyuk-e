@@ -41,10 +41,10 @@ Here are some ideas to get you started:
 
 ### 📚블로그 포스트
 <!-- BLOG-POST-LIST:START -->
+- [Jekyll 블로그 검색엔진에 등록하기 - Google](https://sanghyuk.dev/blog/3/)
 - [Jekyll 블로그 검색엔진에 등록하기 - Naver](https://sanghyuk.dev/blog/2/)
 - [Firebase 시작하기](https://sanghyuk.dev/firebase/1/)
 - [Mac 업데이트 후 CocoaPod 오류 해결방법](https://sanghyuk.dev/ios/1/)
-- [Mac 업데이트 후 xcrun error 해결방법](https://sanghyuk.dev/git/2/)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [블로그에서 보기](https://sanghyuk.dev/)
 
