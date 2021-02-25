@@ -41,10 +41,10 @@ Here are some ideas to get you started:
 
 ### 📚블로그 포스트
 <!-- BLOG-POST-LIST:START -->
+- [CHAPTER07: 함수 - 1.함수의 기본 개념](https://sanghyuk.dev/swift-grammar/7-1/)
 - [CHAPTER06: 옵셔널 - 2. 옵셔널 값 처리](https://sanghyuk.dev/swift-grammar/6-2/)
 - [CHAPTER06: 옵셔널 - 1. 옵셔널 타입 선언과 정의](https://sanghyuk.dev/swift-grammar/6-1/)
 - [iOS 면접 질문 모음](https://sanghyuk.dev/ios/2/)
-- [Jekyll 블로그 검색엔진에 등록하기 - Google](https://sanghyuk.dev/blog/3/)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [블로그에서 보기](https://sanghyuk.dev/)
 
