@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsanghyuk-e%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=sanghyuk-e&edge_flat=false)](https://hits.seeyoufarm.com)
 
-# 🧑🏻‍💻안녕하세요. 개발자 이상혁입니다! <a href="https://www.sanghyuk.dev/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+# 🧑🏻‍💻안녕하세요. 이상혁입니다! <a href="https://www.sanghyuk.dev/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 
 - 🔭 WELT에서 iOS 개발자로 일하고 있습니다.
