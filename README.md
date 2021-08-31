@@ -43,9 +43,9 @@ Here are some ideas to get you started:
 ### 📚블로그 포스트
 <!-- BLOG-POST-LIST:START -->
 - [[codeit - 컴퓨터 개론] 프로그래밍 언어 이해하기 (Part. 2)](https://sanghyuk.dev/codeit/4/)
+- [기획](https://sanghyuk.dev/planner/1/)
 - [CHAPTER07: 함수 - 1.함수의 기본 개념](https://sanghyuk.dev/swift-grammar/7-1/)
 - [CHAPTER06: 옵셔널 - 2. 옵셔널 값 처리](https://sanghyuk.dev/swift-grammar/6-2/)
-- [CHAPTER06: 옵셔널 - 1. 옵셔널 타입 선언과 정의](https://sanghyuk.dev/swift-grammar/6-1/)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [블로그에서 보기](https://sanghyuk.dev/)
 
