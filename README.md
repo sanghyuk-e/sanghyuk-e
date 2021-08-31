@@ -34,17 +34,17 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=JSON&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/>
 
 ### Coworking Tools
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=Confluence&logoColor=white"/> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=Confluence&logoColor=white"/> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/> <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=Bitbucket&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
 <br />
 
 ---
 
 ### 📚블로그 포스트
 <!-- BLOG-POST-LIST:START -->
-- [Jekyll 블로그 검색엔진에 등록하기 - Naver](https://sanghyuk.dev/blog/2/)
-- [Firebase 시작하기](https://sanghyuk.dev/firebase/1/)
-- [Mac 업데이트 후 CocoaPod 오류 해결방법](https://sanghyuk.dev/ios/1/)
-- [Mac 업데이트 후 xcrun error 해결방법](https://sanghyuk.dev/git/2/)
+- [[codeit - 컴퓨터 개론] 프로그래밍 언어 이해하기 (Part. 2)](https://sanghyuk.dev/codeit/4/)
+- [CHAPTER07: 함수 - 1.함수의 기본 개념](https://sanghyuk.dev/swift-grammar/7-1/)
+- [CHAPTER06: 옵셔널 - 2. 옵셔널 값 처리](https://sanghyuk.dev/swift-grammar/6-2/)
+- [CHAPTER06: 옵셔널 - 1. 옵셔널 타입 선언과 정의](https://sanghyuk.dev/swift-grammar/6-1/)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [블로그에서 보기](https://sanghyuk.dev/)
 
