@@ -43,9 +43,9 @@ Here are some ideas to get you started:
 ### 📚블로그 포스트
 <!-- BLOG-POST-LIST:START -->
 - [[codeit - 컴퓨터 개론] 프로그래밍 언어 이해하기 (Part. 2)](https://sanghyuk.dev/codeit/4/)
+- [[CHAPTER 9] 강한 제품팀의 원칙](https://sanghyuk.dev/product-manager/12/)
 - [[CHAPTER 8-1] 최소 기능 제품(MVP)](https://sanghyuk.dev/product-manager/11/)
 - [[CHAPTER 8] 핵심 개념](https://sanghyuk.dev/product-manager/10/)
-- [[CHAPTER 7] 린과 애자일을 넘어](https://sanghyuk.dev/product-manager/9/)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [블로그에서 보기](https://sanghyuk.dev/)
 
