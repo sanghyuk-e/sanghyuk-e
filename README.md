@@ -42,10 +42,10 @@ Here are some ideas to get you started:
 
 ### 📚블로그 포스트
 <!-- BLOG-POST-LIST:START -->
+- [[codeit - 컴퓨터 개론] 프로그래밍 언어 이해하기 (Part. 2)](https://sanghyuk.dev/codeit/5/)
 - [객체 지향의 장점과 단점](https://sanghyuk.dev/development/2/)
 - [[CHAPTER 9] 강한 제품팀의 원칙](https://sanghyuk.dev/productmanager/12/)
 - [[CHAPTER 8-1] 최소 기능 제품(MVP)](https://sanghyuk.dev/productmanager/11/)
-- [[CHAPTER 8] 핵심 개념](https://sanghyuk.dev/productmanager/10/)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [블로그에서 보기](https://sanghyuk.dev/)
 
